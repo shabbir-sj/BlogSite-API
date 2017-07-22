@@ -2,4 +2,4 @@ iche__/
 .idea
 .DS_Store
 xcuserdata
-/data
+__pycache__/
